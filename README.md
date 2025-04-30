@@ -73,8 +73,8 @@ Components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/email-reader-agent.git
-   cd email-reader-agent
+   git clone https://github.com/muzaffar401/Email_Reader_Agent.git
+   cd Email_Reader_Agent
    ```
 
 2. Create and activate virtual environment:
