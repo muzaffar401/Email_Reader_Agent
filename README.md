@@ -1,6 +1,7 @@
 # 📧 Email Reader Agent - README
 
-![Email Reader Agent Workflow Diagram](workflow_diagram.png)  
+![image](https://github.com/user-attachments/assets/859240fc-7b29-4797-871b-45e0031f8c2c)
+
 *(Diagram explanation below)*
 
 ## Table of Contents
